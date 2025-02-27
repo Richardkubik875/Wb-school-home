@@ -1,0 +1,30 @@
+body{
+    background-image: url(desktop-wallpaper-anime-girl-horizon-landscape-clouds-sunset-2000x1000.jpg);
+    background-color: rgb(28, 221, 91);
+    background-size: cover;
+}
+.Úvod{
+    color: darksalmon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.Hratelnost{
+    font-size: 30px;
+    color: blue;
+}
+.Hratelnost1{
+    color: rgb(109, 81, 26);
+    list-style-type: upper-roman;
+}
+.Hratelnost2{
+    color: rgb(126, 104, 75);
+    list-style-type: upper-roman;
+}
+.Hratelnost3{
+    color: rgb(68, 68, 57);
+    list-style-type: upper-roman;
+}
+.Dimenze{
+    color: brown;
+    font-size: 30px;
+}
