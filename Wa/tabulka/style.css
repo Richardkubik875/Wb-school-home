@@ -1,0 +1,12 @@
+table{
+    text-align: center;
+}
+th, td{
+    background-color: rgb(162, 162, 180);
+    border: 1px solid, black; 
+}
+.Nike{
+    color: white;
+    border: 1px solid, white;
+    background-color: white;
+}
